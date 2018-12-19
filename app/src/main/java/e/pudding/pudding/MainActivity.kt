@@ -49,8 +49,9 @@ class MainActivity : AppCompatActivity() {
         val account: GoogleSignInAccount? = GoogleSignIn.getLastSignedInAccount(this)
         if (account == null) {
             val intent = Intent(this, LoginActivity::class.java)
-            Log.d(TAG, "NOTE: Checks if logged into google. If not, will open LoginActivity.")
+            Log.d(TAG, "Starting LoginActivity as user is not signed in.")
             startActivity(intent)
-        }
+        } else
+            Log.d(TAG, "User is signed in.")
     }
 }
