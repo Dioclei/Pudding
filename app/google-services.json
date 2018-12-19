@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "639595844592",
+    "firebase_url": "https://pudding-4616d.firebaseio.com",
+    "project_id": "pudding-4616d",
+    "storage_bucket": "pudding-4616d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639595844592:android:e211e494942870dd",
+        "android_client_info": {
+          "package_name": "e.pudding.pudding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639595844592-jtj2nugakr2h7qaqb04c09ks8ieod2vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.pudding.pudding",
+            "certificate_hash": "33baa4f308244641e035a3af5110aa6e71417c0f"
+          }
+        },
+        {
+          "client_id": "639595844592-je71v3pb09nq4airq20smotvinob38df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfaNYeyPYxV9pERq2-VtvPTZaMS1dEfKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639595844592-je71v3pb09nq4airq20smotvinob38df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
