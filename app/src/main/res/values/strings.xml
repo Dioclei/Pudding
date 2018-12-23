@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Pudding</string>
-    <string name="title_home">Home</string>
+    <string name="title_timetable">Home</string>
     <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_multifunction_button">Notifications</string>
     <string name="title_activity_login">LoginActivity</string>
+    <string name="title_goals">Goals</string>
+    <string name="title_social">Social</string>
+
 </resources>
